@@ -1,0 +1,12 @@
+
+public class Series {
+    public static void main(String[] args) {
+        
+       
+        int end=1039;
+        int step=11;
+      
+for (int start=7; start<=end; start=start+step  ){
+System.out.println(start);
+}
+    }}
